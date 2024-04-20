@@ -11,3 +11,8 @@ experimenting with Luigi workflow
 - If the time taken at the Fuel station is less than 15m (condition)
 - If 'condition' is True, go to library and pick the book (PickBook)
 - Go to home (GoHome)
+
+### Installation
+- Python 3.8.10
+- pip install -r requirements.txt
+
